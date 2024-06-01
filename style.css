@@ -424,7 +424,7 @@ nav a {
 
 .footer-top {
   background-color: #ede1d5;
-  height: 80vh;
+  height: 90vh;
   padding: 15vh;
 }
 
@@ -467,7 +467,7 @@ nav a {
   display: flex;
   justify-content: space-between;
   align-items: baseline;
-  margin: auto;
+  margin: 0 auto 1rem;
   width: 63%;
 }
 
@@ -487,6 +487,7 @@ nav a {
   margin-left: 0.5vw;
   color: #333;
   font-size: 1.2rem;
+  cursor: pointer;
 }
 
 .footer-bottom {
@@ -497,9 +498,7 @@ nav a {
   justify-content: center;
   align-content: center;
   padding-bottom: 9vh;
-  margin-top: 1.3rem;
 }
-
 
 .sign-up h3 {  font-family: orpheuspro, serif;
   font-weight: 300;
@@ -523,6 +522,7 @@ nav a {
 
 .sign-up .btn {
   background-color: #cfafae;
+  cursor: pointer;
 }
 
 .sign-up .btn:hover {

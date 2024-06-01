@@ -16,6 +16,7 @@ The goal of the assignment was to replicate the layout of a chosen website and n
 
 Responsiveness and functionality have not been covered since they were not part of the assignment.
 
+## [VIEW LIVE](https://github.com/monacodelisa-yt/CSS-201)
 
 ## Update 
 
